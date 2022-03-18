@@ -1,7 +1,7 @@
 /**
- * novo
+ * loopWhile
  */
-public class novo {
+public class loopWhile {
 
   public static void main(String[] args) {
     
